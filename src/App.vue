@@ -31,7 +31,7 @@
       app
       color="primary"
       dark
-      src="mountains.jpg"
+      src="legends.jpg"
       prominent
     >
       <template v-slot:img="{ props }">

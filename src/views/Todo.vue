@@ -75,6 +75,7 @@ export default {
         done: false
       }
       this.tasks.push(newTask)
+      this.newTaskTitle= ''
     },
     doneTask(id) {
       let task = this.tasks.filter(task => task.id === id)[0];
