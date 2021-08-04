@@ -1,4 +1,4 @@
-# vuetify_todo
+# Todo series list Application [VueJS, Vuetify]
 
 ## Project setup
 ```
