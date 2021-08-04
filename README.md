@@ -33,7 +33,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 * Git.
 
 ### Screen Shots
-
-
-
-
+![01 - About page](https://github.com/benjdiasaad/vuetify_Todo-app/blob/main/screenshot/About.png)
+![02 - listoftasks page](https://github.com/benjdiasaad/vuetify_Todo-app/blob/main/screenshot/lot.png)
+![03 - addnewtask page](https://github.com/benjdiasaad/vuetify_Todo-app/blob/main/screenshot/addnewtask.png)
+![04 - deletetask page](https://github.com/benjdiasaad/vuetify_Todo-app/blob/main/screenshot/deletetask.png)
+![05 - done page](https://github.com/benjdiasaad/vuetify_Todo-app/blob/main/screenshot/done.png)
